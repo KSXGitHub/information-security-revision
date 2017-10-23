@@ -10,6 +10,12 @@
     "js-yaml": "^3.10.0",
     "standard": "10.0.2"
   },
+  "standard": {
+    "env": {
+      "jest": true,
+      "node": true
+    }
+  },
   "scripts": {
     "sh": "sh",
     "bash": "bash",
