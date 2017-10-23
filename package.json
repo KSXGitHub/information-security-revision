@@ -3,15 +3,22 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "jest"
-  },
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^21.2.1"
+    "jest": "^21.2.1",
+    "standard": "10.0.2"
+  },
+  "scripts": {
+    "sh": "sh",
+    "bash": "bash",
+    "zsh": "zsh",
+    "command-prompt": "cmd",
+    "exec": "bash -c",
+    "exec:win32": "cmd /c",
+    "remake-package-json": "node sh/remake-package-json",
+    "clean": "bash 'sh/clean.sh'",
+    "fix": "bash 'sh/fix.sh'",
+    "test": "bash 'sh/test.sh'"
   }
 }
