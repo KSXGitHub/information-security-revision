@@ -13,10 +13,14 @@ temp.*
 *.editorconfig*
 *.eslintrc*
 *.test.js
+*.check.js
 .git*
 /.travis.yml
 /appveyor.yml
 /circle.yml
 /sh
+/jest
+/check
+/coverage
 docs
 __test__
