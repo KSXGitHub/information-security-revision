@@ -12,9 +12,11 @@ temp.*
 *.tern-project*
 *.editorconfig*
 *.eslintrc*
+*.test.js
 .git*
 /.travis.yml
 /appveyor.yml
 /circle.yml
 /sh
 docs
+__test__
