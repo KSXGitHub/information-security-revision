@@ -12,6 +12,7 @@ temp.*
 *.tern-project*
 *.editorconfig*
 *.eslintrc*
+*.spec.js
 *.test.js
 *.check.js
 .git*
@@ -23,4 +24,5 @@ temp.*
 /check
 /coverage
 docs
+__spec__
 __test__
