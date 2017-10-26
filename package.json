@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "jest": "^21.2.1",
+    "jest-tobetype": "^1.1.0",
     "js-yaml": "^3.10.0",
     "standard": "10.0.2",
     "x-iterable": "^6.0.1"
