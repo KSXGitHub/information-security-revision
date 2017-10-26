@@ -2457,7 +2457,7 @@ process-nextick-args@~1.0.6:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-1.0.7.tgz#150e20b756590ad3f91093f25a4f2ad8bff30ba3"
 
-product-iterable@^3.0.0:
+product-iterable@^3.0.0, product-iterable@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/product-iterable/-/product-iterable-3.0.1.tgz#bf0c2daf378767f1035b5f252c2758a8414bb2bc"
   dependencies:
@@ -2496,7 +2496,7 @@ randomatic@^1.1.3:
     is-number "^3.0.0"
     kind-of "^4.0.0"
 
-range-iterable@^3.0.0:
+range-iterable@^3.0.0, range-iterable@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/range-iterable/-/range-iterable-3.0.1.tgz#2e37e3a3f6fa629b5c832a8ad4561f4171d5e153"
   dependencies:
