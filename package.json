@@ -6,6 +6,7 @@
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chunk": "^0.0.2",
     "product-iterable": "^3.0.1",
     "range-iterable": "^3.0.1"
   },
